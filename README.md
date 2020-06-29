@@ -13,4 +13,4 @@ Click [here](http://heroku-wordpress-postgresql.herokuapp.com/) to see live demo
 
 [![Add-ons](http://technomile.github.io/img/wordpress-buidpack.png)](http://www.technomile.com/capabilities/application-development/heroku/wordpress)
 
-Check out the [documentation](http://technomile.github.io/wordpress/) to learn more about Heroku & WordPress and to set up your own instance
+Check out the [documentation](http://technomile.github.io/wordpress/) to learn more about Heroku & WordPress and to set up your own instance.
