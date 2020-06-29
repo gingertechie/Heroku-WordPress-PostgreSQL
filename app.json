@@ -1,7 +1,7 @@
 {
-	"name": "CMS Buildpacks by TechnoMile",
+	"name": "CMS Buildpacks by TechnoMile and Gingertechie",
 	"description": "Deploy your favorite CMS on Heroku using our WordPress buildpack.",
-	"repository": "https://github.com/technomile/Heroku-WordPress-PostgreSQL",
+	"repository": "https://github.com/gingertechie/Heroku-WordPress-PostgreSQL",
 	"logo": "http://technomile.github.io/img/cms_buildpack_github.png",
 	"keywords": ["wordpress", "heroku", "php", "postgresql", "apache", "apache2", "nginx"],
 	"addons": ["heroku-postgresql:hobby-dev","newrelic:wayne","sendgrid:starter"],
